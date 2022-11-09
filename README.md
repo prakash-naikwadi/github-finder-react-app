@@ -4,7 +4,7 @@ This is a GitHub Profile Finder React App build using **HTML5, Bootstrap and Rea
 
 <br>
 
-## 📌 **Live Site URL:** <a href="https://to-do-list-react-app-01.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="">**Visit Now** 🚀</a>
 
 <br>
 
