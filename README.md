@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+## ⭐ GitHub Profile Finder React App ⭐
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a GitHub Profile Finder React App build using **HTML5, Bootstrap and React**.
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+## 📌 **Live Site URL:** <a href="https://to-do-list-react-app-01.netlify.app/">**Visit Now** 🚀</a>
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📌 Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
+<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<br>
+<br>
 
-### `npm test`
+## 📌 Overview
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `npm run build`
+![Screenshot](./images/screenshot01.png?raw=true "Template Screenshot")
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📌 My process
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- In **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron** we get familiar with React concepts.
+- Started learning react concepts and for practicing these concepts this project help me.
+- It took me about **6 hours** to complete this project.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📌 What I Learn
 
-### `npm run eject`
+👉 Learn about `useState` hook and usage of it.  
+👉 Learn about `useEffect` hook and usage of it.  
+👉 Learn about `uuid` package for generating random string and used it for id.  
+👉 Learn about `localStorage` browser API and how to do CRUD operation on it.  
+👉 Learn about passing data to child components using `props`.  
+👉 Learn about passing data from child to parent components using `lifting state up` concept.  
+👉 Learn about how to put Bootstrap code into React.  
+👉 Learn about how to distribute our UI into different `components`.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📬 Connect With Me
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **LinkedIn** - [Prakash Naikwadi](https://www.linkedin.com/in/prakash-naikwadi/)
+- **Portfolio** - [Prakash Naikwadi](https://prakash-naikwadi.netlify.app/)
+- **Twitter** - [@PrakashNaikwad6](https://www.twitter.com/PrakashNaikwad6)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📌 Acknowledgments
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Course Instructor - [Brad Traversy](https://www.traversymedia.com/)
+- Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
+- This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
