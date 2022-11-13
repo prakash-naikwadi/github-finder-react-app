@@ -4,7 +4,7 @@ This is a GitHub Profile Finder React App build using **HTML5, Bootstrap and Rea
 
 <br>
 
-## 📌 **Live Site URL:** <a href="">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://github-finder-react-app-01.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
@@ -20,23 +20,23 @@ This is a GitHub Profile Finder React App build using **HTML5, Bootstrap and Rea
 
 <br>
 
-![Screenshot](./images/screenshot01.png?raw=true "Template Screenshot")
+![Screenshot](./src/components/layout/assets/screenshot.png?raw=true "Template Screenshot")
 
 ## 📌 My process
 
 - In **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron** we get familiar with React concepts.
 - Started learning react concepts and for practicing these concepts this project help me.
-- It took me about **6 hours** to complete this project.
+- I follow along React-Front-To-Back-2022 react course and learn a lot.
+- It took me about **15 hours** to complete this project.
 
 ## 📌 What I Learn
 
 👉 Learn about `useState` hook and usage of it.  
 👉 Learn about `useEffect` hook and usage of it.  
-👉 Learn about `uuid` package for generating random string and used it for id.  
-👉 Learn about `localStorage` browser API and how to do CRUD operation on it.  
-👉 Learn about passing data to child components using `props`.  
-👉 Learn about passing data from child to parent components using `lifting state up` concept.  
-👉 Learn about how to put Bootstrap code into React.  
+👉 Learn about `useReducer` hook and usage of it.  
+👉 Learn about `useContext` hook and usage of it.  
+👉 Learn about `Routes` in react and usage of it.  
+👉 Learn about `Github API` and how to handle API requests.  
 👉 Learn about how to distribute our UI into different `components`.
 
 ## 📬 Connect With Me
