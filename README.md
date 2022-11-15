@@ -1,6 +1,6 @@
 ## ⭐ GitHub Profile Finder React App ⭐
 
-This is a GitHub Profile Finder React App build using **HTML5, Bootstrap and React**.
+This is a GitHub Profile Finder React App build using **HTML5, Tailwind CSS and React**.
 
 <br>
 
