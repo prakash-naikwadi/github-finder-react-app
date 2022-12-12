@@ -36,7 +36,7 @@ This is a GitHub Profile Finder React App build using **HTML5, Tailwind CSS and 
 👉 Learn about `useReducer` hook and usage of it.  
 👉 Learn about `useContext` hook and usage of it.  
 👉 Learn about `Routes` in react and usage of it.  
-👉 Learn about `Github API` and how to handle API requests.  
+👉 Learn about `Github API` and how to handle API Requests.  
 👉 Learn about how to distribute our UI into different `components`.
 
 ## 📬 Connect With Me
